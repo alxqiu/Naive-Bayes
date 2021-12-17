@@ -1,0 +1,16 @@
+Records Tested: 120
+Jaccard Similarity Overall: 96.6961%
+Jaccard Similarity Per Class: 
+	Class 0.0: 95.4545%
+	Class 1.0: 88.8889%
+	Class 2.0: 100.0000%
+	Class 3.0: 95.8333%
+	Class 4.0: 100.0000%
+	Class 5.0: 100.0000%
+Statistical Summary Per Class: 
+	Class 0.0 : {Probability : 15.8333%, Temperature (K) : {'std': 247.26686862777967, 'mean': 2998.6111111111113}, Luminosity(L/Lo) : {'std': 0.0005099527725651794, 'mean': 0.0006560555555555557}, Radius(R/Ro) : {'std': 0.02669258925221857, 'mean': 0.12181111111111112}, Absolute magnitude(Mv) : {'std': 1.2368238893768717, 'mean': 17.44666666666667}}
+	Class 1.0 : {Probability : 20.0000%, Temperature (K) : {'std': 280.6372305993766, 'mean': 3234.304347826087}, Luminosity(L/Lo) : {'std': 0.004422999136452392, 'mean': 0.0042478260869565215}, Radius(R/Ro) : {'std': 0.17304429418640938, 'mean': 0.3565086956521739}, Absolute magnitude(Mv) : {'std': 1.3726476162004833, 'mean': 12.784999999999998}}
+	Class 2.0 : {Probability : 18.3333%, Temperature (K) : {'std': 4456.432411836832, 'mean': 14526.333333333334}, Luminosity(L/Lo) : {'std': 0.011926078030442724, 'mean': 0.003984047619047619}, Radius(R/Ro) : {'std': 0.0016119719336077875, 'mean': 0.010651904761904762}, Absolute magnitude(Mv) : {'std': 1.0754603507272569, 'mean': 12.415714285714287}}
+	Class 3.0 : {Probability : 15.0000%, Temperature (K) : {'std': 10380.10517411098, 'mean': 15007.470588235294}, Luminosity(L/Lo) : {'std': 64076.93941231811, 'mean': 26048.48911764706}, Radius(R/Ro) : {'std': 2.9084958692515426, 'mean': 4.2201176470588235}, Absolute magnitude(Mv) : {'std': 3.799907363649585, 'mean': 0.07370588235294111}}
+	Class 4.0 : {Probability : 19.1667%, Temperature (K) : {'std': 8908.495417018596, 'mean': 14013.363636363636}, Luminosity(L/Lo) : {'std': 183907.97733226875, 'mean': 320580.9090909091}, Radius(R/Ro) : {'std': 26.830082105448803, 'mean': 53.31818181818182}, Absolute magnitude(Mv) : {'std': 0.5361638553204291, 'mean': -6.463954545454545}}
+	Class 5.0 : {Probability : 16.6667%, Temperature (K) : {'std': 9439.943305853512, 'mean': 10160.526315789473}, Luminosity(L/Lo) : {'std': 214720.85146860252, 'mean': 317198.4210526316}, Radius(R/Ro) : {'std': 296.6257501948716, 'mean': 1300.3105263157895}, Absolute magnitude(Mv) : {'std': 1.5379761497237574, 'mean': -9.606315789473683}}
